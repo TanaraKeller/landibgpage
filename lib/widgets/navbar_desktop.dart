@@ -114,7 +114,7 @@ class _NavBarState extends State<NavBar> {
                                     'Programar eventos',
                                     style: TextStyle(
                                       height: 3,
-                                      color: bege2,
+                                      color: Colors.black,
                                       fontFamily: 'ProximaSoft',
                                       fontWeight: FontWeight.w500,
                                       fontSize: 18,
